@@ -16,5 +16,5 @@ swagger-coverage = {url = "https://github.com/ponomarev-iv1986/swagger-coverage-
 
 
 [build-system]
-requires = ["poetry-core"]
+requires = ["poetry-core>=1.0.0,<2.0.0"]
 build-backend = "poetry.core.masonry.api"
